@@ -123,11 +123,11 @@ label start:
   ai "So where do you wanna go?"
   menu:
     "Mall":
-    jump menu1
+      jump menu1
     "Park":
-    jump menu2
+      jump menu2
     "Arcade":
-    jump menu3
+      jump menu3
   return
 
 label menu1:
