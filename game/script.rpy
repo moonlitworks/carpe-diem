@@ -696,7 +696,7 @@ label end:
   jung "..."
   $ achievement.grant("AI_END")
   $ achievement.grant("AI_END2")
-  $ achievement.Sync()
+  $ achievement.sync()
   jung "What am I doing with my life?"
   scene black with Dissolve(0.5)
   window hide
