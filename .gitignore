@@ -1,0 +1,15 @@
+log.txt
+errors.txt
+traceback.txt
+dialogue.txt
+dialogue.tab
+cache/
+saves/
+tmp/
+*.pyc
+*.rpy.bak
+*.rpya
+*.rpyb
+*.rpyc
+*.rpymc
+*.rpy.bak

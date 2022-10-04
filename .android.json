@@ -1,0 +1,1 @@
+{"layout": null, "orientation": "sensorLandscape", "package": "com.moonlitworks.carpediem", "include_pil": false, "expansion": false, "name": "Carpe Diem", "update_always": true, "source": false, "icon_name": "Carpe Diem", "version": "2.0", "update_icons": true, "permissions": ["VIBRATE"], "numeric_version": "203", "include_sqlite": false, "store": "none"}
